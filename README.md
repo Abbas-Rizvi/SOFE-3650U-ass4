@@ -17,7 +17,7 @@ Desktop application
 
 ## Excercise 2
 
-Contents for excercise 1 can be found in the [CashRegister](https://github.com/Abbas-Rizvi/SOFE-3650U-ass4/tree/master/CompanyProject) directory
+Contents for excercise 1 can be found in the [CashRegister](https://github.com/Abbas-Rizvi/SOFE-3650U-ass4/tree/master/CashRegister) directory
 
 For the purpose of this excercise, 5 sample products were created and used in the testing procedures for the GUI application.
 
